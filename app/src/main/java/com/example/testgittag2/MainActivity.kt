@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        textView.text = "分支 开发2.0版本开发完成"
+        textView.text = "3.0版本开发完成"
     }
 }
